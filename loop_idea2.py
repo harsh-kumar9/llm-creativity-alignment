@@ -2,13 +2,14 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import torch
 import pandas as pd
 import sys
-from helpers import cut_off_text, remove_substring, generate, B_INST, E_INST, B_SYS, E_SYS, DEFAULT_SYSTEM_PROMPT, get_prompt, SYSTEM_PROMPT, generate_response
 # load arg argument.
-#model_name = sys.argv[1]
-model_names = ["/model-weights/Llama-2-7b-chat-hf", "/model-weights/Mistral-7B-Instruct-v0.1"]
+# model_names = ["/model-weights/Llama-2-7b-chat-hf", "/model-weights/Mistral-7B-Instruct-v0.1", "/model-weights/gemma-7b-it", "/model-weights/Llama-2-13b-chat-hf"]
+
+model_names = ["/model-weights/gemma-7b-it", "/model-weights/Llama-2-13b-chat-hf"]
 
 
 def run(model_name):
+    spilit_by = "<end_of_turn>" if model_name == "/model-weights/gemma-7b-it" else "[/INST]"
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
@@ -63,7 +64,7 @@ def run(model_name):
                 num_return_sequences=1,
             )
 
-            bot_feedback = {"role": "assistant", "content": sequences[0]['generated_text'].split('[/INST]')[1]}
+            bot_feedback = {"role": "assistant", "content": sequences[0]['generated_text'].split(spilit_by)[-1]}
             chat.append(bot_feedback)
             chat.append({"role": "user", "content": f'Can you give suggestions on how to improve the overall creativity of the list? This could include the originality of each idea, the diversity of the ideas in the list, and the number of ideas. Don’t fix the list, just give suggestions.\n'})
             prompt = tokenizer.apply_chat_template(chat, tokenize=False)
@@ -78,7 +79,7 @@ def run(model_name):
                 num_return_sequences=1,
             )
 
-            bot_feedback = {"role": "assistant", "content": sequences[0]['generated_text'].split('[/INST]')[-1]}
+            bot_feedback = {"role": "assistant", "content": sequences[0]['generated_text'].split(spilit_by)[-1]}
             chat.append(bot_feedback)
             chat.append({"role": "user", "content": f'Now update the list based on the suggestions.\n'})
             prompt = tokenizer.apply_chat_template(chat, tokenize=False)
@@ -98,7 +99,7 @@ def run(model_name):
             conditions.append('base-input-prompt-only')
             df = pd.DataFrame(data={'session_ids': session_ids, 'item_names': item_names, 'responses': responses, 'conditions': conditions})
             # save to csv.
-            df.to_csv(f'{model_name.split("/")[2]}_idea2.csv', index=False)
+            df.to_csv(f'idea2/{model_name.split("/")[2]}_idea2.csv', index=False)
 
 for model_name in model_names:
     run(model_name)
