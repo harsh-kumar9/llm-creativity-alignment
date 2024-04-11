@@ -1,0 +1,175 @@
+session_id,item,idea_id,idea,condition,originality,diversity
+0,tire,0,"**Mobile Greenhouse:** A transparent tire filled with soil and plants, used as a portable greenhouse.",idea2,4.2,0.5431215404127733
+0,tire,1,"**Interactive Tire:** A tire with embedded sensors that interact with the road, changing colors and patterns based on speed, terrain, and weather.",idea2,3.4,0.5431215404127733
+0,tire,2,"**Musical Tire:** A tire that generates music when spun, creating a unique soundtrack for each journey.",idea2,3.4,0.5431215404127733
+0,tire,3,"**Tire-cast:** A casting mold made from a tire, used to pour molten metal into unique shapes.",idea2,3.4,0.5431215404127733
+0,tire,4,"**Tire Swing:** A tire attached to a rope, used as a swing for children.",idea2,1.8,0.5431215404127733
+0,tire,5,"**Tire Bridge:** A bridge made from a tire, used to cross rivers.",idea2,3.0,0.5431215404127733
+0,tire,6,"**Tire Fountain:** A fountain made from a tire, used to sprinkle water.",idea2,3.4,0.5431215404127733
+1,tire,0,"**Tire Swing:** A tire attached to a rope, hanging from a tree, can be used as a swing for children.",idea2,1.8,0.5007326696686126
+1,tire,1,**Mobile Tire Oven:** A tire filled with coals can be used to roast marshmallows or cook food.,idea2,3.4,0.5007326696686126
+1,tire,2,**Tire Fountain:** A tire filled with water can be used as a fountain.,idea2,3.4,0.5007326696686126
+1,tire,3,**Tire Bridge:** A series of tires can be used to build a bridge.,idea2,3.0,0.5007326696686126
+1,tire,4,**Tire Drum:** A tire can be used as a drum to make music.,idea2,3.0,0.5007326696686126
+1,tire,5,**Tire Garden:** A tire can be used as a flowerpot.,idea2,2.0,0.5007326696686126
+1,tire,6,**Tire Mirror:** A tire can be used as a mirror.,idea2,3.8,0.5007326696686126
+2,tire,0,"**Tire Swing:** A tire hung from a tree, with a rope attached to the valve stem, can be used as a swing.",idea2,1.8,0.4560421041426543
+2,tire,1,**Tire Cactus:** Tires filled with sand and planted with cactus can serve as unique outdoor landscaping.,idea2,3.8,0.4560421041426543
+2,tire,2,**Tire Mirror:** A mirror mounted on a tire can be used to reflect the surroundings.,idea2,3.2,0.4560421041426543
+2,tire,3,"**Tire Fountain:** Tires can be used as the base of a fountain, filled with water and adorned with flowers.",idea2,3.8,0.4560421041426543
+2,tire,4,"**Tire Drum:** Tires can be used as drums, either by attaching them to a frame or playing them directly.",idea2,3.0,0.4560421041426543
+2,tire,5,**Tire Boat:** A tire can be inflated and used as a makeshift boat.,idea2,3.2,0.4560421041426543
+2,tire,6,**Tire Slide:** A tire can be used as a slide on a hill.,idea2,3.2,0.4560421041426543
+2,tire,7,**Tire Tower:** Tires can be stacked on top of each other to create a tower.,idea2,3.0,0.4560421041426543
+7,tire,0,"**Tire Swing:** A tire mounted on a frame, suspended from a tree, can be used as a swing.",idea2,1.8,0.4049453916089202
+7,tire,1,**Tire Mirror:** A tire painted with reflective material can be used as a mirror.,idea2,3.4,0.4049453916089202
+7,tire,2,**Tire Fountain:** A tire filled with water can be used as a fountain.,idea2,3.4,0.4049453916089202
+7,tire,3,**Tire Drum:** A tire can be used as a drum by attaching it to a frame and striking it.,idea2,3.0,0.4049453916089202
+7,tire,4,**Tire Hat:** A tire can be shaped into a hat and decorated.,idea2,3.4,0.4049453916089202
+7,tire,5,**Tire Tower:** A stack of tires can be used as a tower.,idea2,3.0,0.4049453916089202
+7,tire,6,**Tire Bridge:** A bridge made of tires can be used to cross a river.,idea2,2.8,0.4049453916089202
+8,tire,0,**Tire Swing:** Convert a tire into a giant swing by attaching ropes to the bead and hanging from a tree. Add a cushion for a soft landing.,idea2,2.8,0.48573914699721565
+8,tire,1,**Mobile Coffee Table:** Turn a tire into a mobile table by attaching wheels to a wooden platform. Add a surface for drinks and snacks.,idea2,3.2,0.48573914699721565
+8,tire,2,**Tire Drum:** Create a unique drum by attaching skins to a tire and adding a frame for resonance.,idea2,3.2,0.48573914699721565
+8,tire,3,**Tire Cactus:** Sculpt a cactus out of a tire by carving and shaping the rubber. Decorate with paint or other embellishments.,idea2,4.5,0.48573914699721565
+8,tire,4,**Tire Mirror:** Cut a hole in a tire and use it as a mirror. Add a frame or embellishments for a unique look.,idea2,3.8,0.48573914699721565
+3,pants,0,"Pants as a canvas:** Paint, draw, or write on your pants. They can be a blank canvas for self-expression, a way to showcase your creativity, or even a wearable art piece.",idea2,3.0,0.41772844051766594
+3,pants,1,"Pants as a musical instrument:** Turn your pants into a drum or a musical instrument. You could attach bells, rattles, or other instruments to them for a unique sound.",idea2,3.0,0.41772844051766594
+3,pants,2,"Pants as a shelter:** Create a makeshift shelter out of pants. You could use them to build a tent, a fort, or a cozy nook.",idea2,3.0,0.41772844051766594
+3,pants,3,Pants as a parachute:** Turn your pants into a makeshift parachute to glide through the air. You could attach a cord to the pants and jump out of a tree to experience the thrill of freefall.,idea2,4.2,0.41772844051766594
+3,pants,4,"Pants as a prop:** Use your pants as a prop in a play, a movie, or a photoshoot. They could be used in a variety of ways, such as a costume piece, a character's accessory, or a comedic element.",idea2,3.0,0.41772844051766594
+5,pants,0,"**Sling Shot Pants:** Replace the legs of your pants with powerful rubber bands, and use them to launch small objects across the room. Perfect for a game of ""Sling Shot Pants"" or for a mischievous child.",idea2,3.8,0.3805045286754901
+5,pants,1,**Tweedle Pants:** Turn your pants into a musical instrument by attaching strings to the legs and plucking them to create different sounds. You could even add embellishments like bells or chimes for a more unique sound.,idea2,4.2,0.3805045286754901
+5,pants,2,"**Pocket Rocket:** Turn your pants pockets inside out and attach small explosives to them. Now you can be a master of destruction, albeit safely from a distance. (Please note: This is a joke and not a real suggestion. Explosives are dangerous and should not be used.)",idea2,3.8,0.3805045286754901
+5,pants,3,"**Multifunctional Pants:** Design pants that can transform into different items, like a skirt, a jacket, or a bag. You could even add detachable legs to turn them into shorts.",idea2,3.0,0.3805045286754901
+5,pants,4,**Light-Up Pants:** Equip your pants with glowing lights to make them visible at night. You could use different colors of light to create unique patterns or even spell out words.,idea2,3.2,0.3805045286754901
+5,pants,5,**Pants as a Canvas:** Use your pants as a canvas for painting or drawing. You could use different colors of paint to create abstract designs or even draw portraits of people or animals.,idea2,3.2,0.3805045286754901
+5,pants,6,**Pants as a Musical Instrument:** Use your pants as a musical instrument. You could attach strings to the legs of your pants and pluck them to create different sounds. You could also use your pants to create a drum or a tambourine.,idea2,3.8,0.3805045286754901
+0,shoe,0,**High-heeled shoe as a weapon:** A pair of high-heeled shoes could be used as a weapon by crushing an opponent's toes or using them to strike someone.,idea2,2.8,0.542362395836375
+0,shoe,1,**Flip-flop shoe as a musical instrument:** A flip-flop shoe could be used as a percussion instrument by slapping it against the ground.,idea2,3.6,0.542362395836375
+0,shoe,2,"**Platform shoe as a platform for a garden:** A platform shoe could be used as a platform for a small garden, complete with plants and flowers.",idea2,3.8,0.542362395836375
+0,shoe,3,**Booties as a makeshift shelter:** A pair of booties could be used as a makeshift shelter by stuffing them with blankets and pillows.,idea2,3.6,0.542362395836375
+0,shoe,4,**Sneakers as a canvas:** Sneakers could be used as a canvas for painting or drawing.,idea2,3.0,0.542362395836375
+1,shoe,0,**Interactive Shoe Display:** A shoe display that utilizes augmented reality to showcase virtual fashion shows and interactive storytelling.,idea2,4.2,0.4028149494123472
+1,shoe,1,**Musical Shoe:** Shoes that incorporate embedded musical instruments to create impromptu jams while walking.,idea2,3.8,0.4028149494123472
+1,shoe,2,**Shoe-Mounted Projector:** Projecting high-definition visuals onto surfaces using micro-LEDs integrated into the shoe.,idea2,4.8,0.4028149494123472
+1,shoe,3,"**Self-Cleaning Shoes:** Footwear equipped with AI-powered sensors to detect dirt and grime, autonomously cleaning themselves.",idea2,3.4,0.4028149494123472
+1,shoe,4,"**Interactive Shoe Map:** Shoes that map the wearer's journey, revealing hidden treasures and guiding them through unexplored paths.",idea2,4.2,0.4028149494123472
+1,shoe,5,**Shoe-Mounted Drone:** A shoe that integrates a drone for aerial photography and navigation.,idea2,4.2,0.4028149494123472
+1,shoe,6,**Holographic Shoe:** Shoes that generate holographic illusions to enhance the wearer's appearance and interactions.,idea2,4.2,0.4028149494123472
+2,shoe,0,Shoe-mounted espresso machine:** A portable espresso machine that fits on a shoe and allows you to make coffee on the go. The machine incorporates a detachable brewing unit and a reservoir for water.,idea2,4.8,0.5585556583324116
+2,shoe,1,Flip-flop musical instrument:** A musical instrument that incorporates the flapping motion of flip-flops. The instrument consists of a set of movable flippers that produce different sounds when struck.,idea2,3.8,0.5585556583324116
+2,shoe,2,"Shoe-mounted water reservoir:** A reservoir that attaches to a shoe to store water, enabling you to walk across puddles without soaking your feet. The reservoir has a flexible hose that connects to the shoe and a pump to circulate the water.",idea2,3.4,0.5585556583324116
+2,shoe,3,High-heeled shoe parachute:** A parachute attached to a high-heeled shoe that can be deployed in an emergency. The parachute is made of a lightweight material and has a cord that connects it to the shoe.,idea2,4.3,0.5585556583324116
+2,shoe,4,Interactive shoe:** An interactive shoe that incorporates augmented reality to provide information and entertainment on demand. The shoe has a built-in sensor that detects your surroundings and displays virtual information on the shoe's display.,idea2,4.2,0.5585556583324116
+3,shoe,0,Shoe-Purse:** A foldable shoe that transforms into a small purse. It would have a detachable strap and a small compartment for storing small items.,idea2,3.8,0.44705556244677114
+3,shoe,1,Head Shoe:** A shoe that can be worn on the head. It would be made of a lightweight material and would have a detachable top that could be used as a hat.,idea2,4.2,0.44705556244677114
+3,shoe,2,"Item Shoe:** A shoe that has a small compartment for storing small items, such as coins, keys, or a small knife.",idea2,3.4,0.44705556244677114
+3,shoe,3,Musical Shoe:** A shoe that can be transformed into a musical instrument. It would have a built-in drum and a set of strings that could be used to play music.,idea2,3.8,0.44705556244677114
+3,shoe,4,Art Shoe:** A shoe that can be used to create art. It would have a canvas on the upper surface that could be painted or decorated.,idea2,3.4,0.44705556244677114
+6,shoe,0,**A portable dance floor:** Transform a pair of platform sneakers into a portable dance floor by attaching mirrored tiles to the soles.,idea2,4.5,0.49954315459320187
+6,shoe,1,**A makeshift parachute:** Turn a pair of sneakers into a makeshift parachute by attaching a lightweight canopy to the laces.,idea2,4.2,0.49954315459320187
+6,shoe,2,**A musical instrument:** Create a musical instrument by attaching strings to the laces of a pair of sneakers.,idea2,3.8,0.49954315459320187
+6,shoe,3,**A storage container:** Use a pair of boots as a storage container for small items such as coins or keys.,idea2,3.2,0.49954315459320187
+6,shoe,4,**A makeshift boat:** Craft a makeshift boat out of a pair of sandals and a piece of cardboard.,idea2,4.2,0.49954315459320187
+6,shoe,5,**A wearable fan:** Attach a small fan to the laces of a pair of sneakers to create a portable air circulation system.,idea2,3.8,0.49954315459320187
+6,shoe,6,**A shoe-shaped watering can:** Design a watering can that resembles a shoe and use it to water plants.,idea2,3.8,0.49954315459320187
+7,shoe,0,**High-Heeled Bubble Wrap:** Wrap a pair of high heels in bubble wrap and wear them as fashionably clumsy boots.,idea2,3.6,0.5262668005466238
+7,shoe,1,**Slingback Cactus:** Attach a prickly cactus to the slingback strap of a shoe to create a unique and edgy accessory.,idea2,4.8,0.5262668005466238
+7,shoe,2,**Flip-Flop Lantern:** Turn a pair of flip-flops into a lantern by attaching glow-in-the-dark stars to the soles.,idea2,4.2,0.5262668005466238
+7,shoe,3,**Boogie Board Boot:** Design a boot that incorporates a boogie board for effortless gliding.,idea2,4.2,0.5262668005466238
+7,shoe,4,"**Interactive Shoe:** Create a shoe that interacts with your phone, offering navigation directions or playing music based on your surroundings.",idea2,3.6,0.5262668005466238
+8,shoe,0,**Shoe Staircase:** Transform worn-out sneakers into a makeshift staircase by stacking them on top of each other. Add colorful railings for safety and aesthetics.,idea2,4.5,0.39554465203366007
+8,shoe,1,"**Shoe Puppet:** Sculpt a puppet from an old pair of shoes, complete with expressive eyes, colorful fabric, and a unique personality.",idea2,3.8,0.39554465203366007
+8,shoe,2,**Shoe Mirror:** Create a mirrored shoe by attaching a mirror to the upper of a shoe. Use it to check your reflection while walking.,idea2,3.4,0.39554465203366007
+8,shoe,3,**Shoe Fountain:** Convert a pair of shoes into a mini fountain by carving holes in the sole and inserting a pump to circulate water.,idea2,4.8,0.39554465203366007
+8,shoe,4,**Shoe Umbrella:** Attach an umbrella to the handle of a shoe for a portable shade.,idea2,4.2,0.39554465203366007
+8,shoe,5,**Shoe Lantern:** Create a lantern by attaching a light source to the sole of a shoe. Use it to illuminate your path at night.,idea2,4.2,0.39554465203366007
+9,shoe,0,High heels as a musical instrument,idea2,3.8,0.5665869424700952
+9,shoe,1,Flip-flops as a makeshift shelter,idea2,3.8,0.5665869424700952
+9,shoe,2,Platform sneakers as a makeshift ramp,idea2,3.4,0.5665869424700952
+9,shoe,3,Sneakers as a canvas,idea2,2.8,0.5665869424700952
+9,shoe,4,Crocs as a gardening tool,idea2,2.6,0.5665869424700952
+0,table,0,**A mobile library.** A table mounted on wheels that can be used to store and transport books.,idea2,3.0,0.5325929345369562
+0,table,1,"**A musical instrument.** A table used as a platform for instruments, such as a piano or drums.",idea2,3.2,0.5325929345369562
+0,table,2,**A mobile office.** A table that can be set up in different locations to provide a workspace.,idea2,2.5,0.5325929345369562
+0,table,3,**A food carving station.** A table used to carve fruits and vegetables.,idea2,2.8,0.5325929345369562
+0,table,4,**A dance floor.** A table that can be used as a dance floor for parties or events.,idea2,2.5,0.5325929345369562
+1,table,0,"**Interactive Dinner Table:** A table with embedded sensors that react to diners' movements, changing the table's layout, lighting, and music to personalize the dining experience.",idea2,3.8,0.49075395921141873
+1,table,1,"**Musical Table:** A table that incorporates musical instruments into its design, allowing for impromptu jams and musical gatherings.",idea2,3.8,0.49075395921141873
+1,table,2,"**Holographic Table:** A transparent table with holographic projection capabilities, creating illusions and interactive experiences.",idea2,3.8,0.49075395921141873
+1,table,3,"**Tabletop Arcade:** A table with integrated arcade game controls and a large screen, transforming the table into a retro gaming station.",idea2,3.8,0.49075395921141873
+1,table,4,"**Tabletop Greenhouse:** A transparent table with integrated hydroponics systems, allowing for fresh herbs and vegetables to grow indoors.",idea2,3.8,0.49075395921141873
+1,table,5,"**Tabletop Bowling Alley:** A table with integrated bowling alley lanes, allowing people to enjoy bowling from the comfort of their table.",idea2,3.8,0.49075395921141873
+1,table,6,"**Tabletop Observatory:** A table with a telescope and star map, allowing stargazing at night.",idea2,3.8,0.49075395921141873
+3,table,0,**Interactive Dining Table:** A table with embedded sensors that detect the presence of food and automatically adjust the table's height and lighting to optimize the dining experience.,idea2,3.8,0.4634193864294663
+3,table,1,**Musical Table:** A table with embedded musical instruments that can play different notes depending on the pressure applied to different areas of the table.,idea2,3.8,0.4634193864294663
+3,table,2,"**Tabletop Mini Golf:** A table with miniature golf holes and obstacles, perfect for a fun and interactive game.",idea2,3.2,0.4634193864294663
+3,table,3,"**Holographic Table:** A table that projects holographic images, creating an immersive 3D experience.",idea2,3.8,0.4634193864294663
+3,table,4,**Tabletop Aquarium:** A table with a built-in aquarium where you can keep fish or other small aquatic creatures.,idea2,3.2,0.4634193864294663
+4,table,0,**Tabletop Bowling Alley:** A series of interlocking tabletop lanes where balls are rolled using a miniature bowling ball launcher. The balls would be controlled by an AI to simulate realistic bowling alley conditions.,idea2,3.8,0.4613923021962796
+4,table,1,**Musical Table:** A table that incorporates musical instruments like xylophone bars and chimes into its design. It can be used to play music and create unique sounds.,idea2,3.8,0.4613923021962796
+4,table,2,"**Interactive Table:** A table that interacts with users through voice commands and facial recognition. It can be used to control smart home devices, play games, and more.",idea2,3.8,0.4613923021962796
+4,table,3,"**Holographic Table:** A transparent table that projects holographic images onto its surface. It can be used to display information, play games, and create virtual experiences.",idea2,3.8,0.4613923021962796
+4,table,4,**Tabletop Aquarium:** A transparent table with an integrated aquarium where fish swim freely. It can be used to bring a touch of nature indoors and create a unique conversation piece.,idea2,3.8,0.4613923021962796
+5,table,0,**Tabletop Aquarium:** A transparent table with a built-in water reservoir to create a miniature underwater world. Miniature plants and figurines could inhabit this world.,idea2,3.8,0.49924029136590453
+5,table,1,**Interactive Dining Table:** A table with embedded screens and sensors that allow diners to interact with holographic projections of food and drinks.,idea2,4.2,0.49924029136590453
+5,table,2,"**Musical Table:** A table that incorporates musical instruments and lights, transforming it into a portable stage for impromptu jam sessions.",idea2,3.8,0.49924029136590453
+5,table,3,"**Board Game Table:** A table designed specifically for board games, with integrated storage compartments and integrated game pieces.",idea2,2.5,0.49924029136590453
+5,table,4,"**Interactive Storytelling Table:** A table with augmented reality features that enhance the storytelling experience, creating immersive narratives through visuals and sounds.",idea2,4.0,0.49924029136590453
+5,table,5,**Tabletop Garden:** A table with integrated planters and hydroponics systems to grow fresh herbs and vegetables.,idea2,3.8,0.49924029136590453
+5,table,6,"**Mobile Kitchen:** A table that can be easily moved around the kitchen, equipped with drawers, countertops, and appliances.",idea2,2.8,0.49924029136590453
+5,table,7,"**Reading Nook:** A cozy table designed for reading, complete with comfortable seating, soft lighting, and a bookshelf.",idea2,2.5,0.49924029136590453
+5,table,8,"**Socializing Table:** A table that encourages interaction, with built-in games, conversation starters, and a communal whiteboard.",idea2,2.5,0.49924029136590453
+6,table,0,Interactive Tabletop Gaming:** A table transformed into a platform for board games with integrated controllers and haptic feedback for a more immersive experience.,idea2,3.6,0.37094975073233577
+6,table,1,"Kinetic Sculpture Table:** A table where sculptures can be rearranged by tilting and sliding the table, creating a dynamic sculpture garden.",idea2,4.2,0.37094975073233577
+6,table,2,"Holographic Table:** A table overlaid with holographic projections, creating an illusion of objects floating above the surface.",idea2,3.8,0.37094975073233577
+6,table,3,"Sensory Table:** A table equipped with tactile buttons, scented drawers, and vibrating surfaces to stimulate senses beyond sight.",idea2,3.4,0.37094975073233577
+6,table,4,"Musical Table:** A table designed to produce musical sounds when struck or tapped, transforming it into a percussion instrument.",idea2,3.4,0.37094975073233577
+8,table,0,"**Interactive Sensory Table:** A table that changes colors and textures based on the objects placed upon it. Sensors detect the weight and composition of objects, triggering changes in the table's surface to create a tactile and visual sensory experience.",idea2,3.8,0.35894372562853216
+8,table,1,"**Musical Table:** A table that plays music when touched. Sensors embedded in the table detect pressure and vibration, triggering melodies and rhythms based on the user's interaction.",idea2,3.4,0.35894372562853216
+8,table,2,"**Holographic Table:** A table that projects holographic images and illusions. Cameras and software create the illusion of objects floating above the table, creating a visually immersive experience.",idea2,4.2,0.35894372562853216
+8,table,3,"**Tabletop Arcade:** A table with integrated arcade game controls and a large screen. The table surface acts as the game surface, and the controls allow users to play classic arcade games.",idea2,3.8,0.35894372562853216
+8,table,4,**Interactive Learning Table:** A table that adapts to the user's learning style. Sensors and software track the user's progress and adjust the learning content and difficulty based on their performance.,idea2,3.8,0.35894372562853216
+9,table,0,"**Interactive Storytelling Table:** A table where holographic projections tell stories. The table surface changes based on the story, creating an immersive experience.",idea2,4.5,0.5277638709673317
+9,table,1,"**Musical Table:** A table that plays music based on the objects placed on it. Different objects produce different sounds, creating a musical composition.",idea2,3.8,0.5277638709673317
+9,table,2,"**Holographic Chessboard:** A holographic chessboard where the pieces move in the air, not on squares.",idea2,4.0,0.5277638709673317
+9,table,3,"**Interactive Dining Table:** A table that interacts with diners, changing the menu based on their preferences and dietary restrictions.",idea2,3.2,0.5277638709673317
+9,table,4,"**Tabletop Gaming Arena:** A table transformed into a gaming arena with LED lights, controllers, and a large screen.",idea2,3.0,0.5277638709673317
+9,table,5,"**Tabletop Garden:** A table where plants grow in the air, suspended from the ceiling.",idea2,3.8,0.5277638709673317
+0,bottle,0,"**Musical Instrument Amplifier:** A hollow glass bottle used to amplify the sound of a musical instrument, particularly a guitar, by resonating with the vibrations.",idea2,3.4,0.6007000332235493
+0,bottle,1,"**Planter for Succulents:** A transparent bottle filled with soil and used to grow succulents, creating a miniature desert landscape.",idea2,2.8,0.6007000332235493
+0,bottle,2,"**Light Saber:** A glowing bottle filled with a liquid that reacts to light, creating a visually impressive ""light saber"" effect.",idea2,3.8,0.6007000332235493
+0,bottle,3,"**Interactive Bottle:** A bottle with embedded sensors that react to movement and sound, triggering lights and sounds to create an immersive gaming experience.",idea2,3.6,0.6007000332235493
+0,bottle,4,"**Water Fountain:** A bottle converted into a water fountain by attaching a nozzle and pump, creating a portable water fountain.",idea2,3.4,0.6007000332235493
+0,bottle,5,"**Musical Instrument Cradle:** A bottle used to hold and cradle musical instruments, such as a guitar or a violin.",idea2,3.4,0.6007000332235493
+0,bottle,6,**Bird Feeder:** A bottle converted into a bird feeder to attract small birds and other feathered creatures.,idea2,3.0,0.6007000332235493
+4,bottle,0,**Interactive Bottle Aquarium:** A transparent bottle filled with colorful pebbles and a miniature underwater world of tiny creatures like snails or jellyfish. The lid has sensors that detect movement and trigger lights and music to simulate the ocean environment.,idea2,4.8,0.5838149449509524
+4,bottle,1,**Musical Instrument:** A hollow bottle tuned to resonate with different notes. It can be used as a percussion instrument or a musical wind chime.,idea2,3.4,0.5838149449509524
+4,bottle,2,**Planter:** A decorated bottle filled with soil and plants. It could be a hanging planter or a small indoor herb garden.,idea2,2.8,0.5838149449509524
+4,bottle,3,**Water Rocket:** A bottle filled with water and a small amount of explosive powder. It can be used as a water rocket to launch small objects.,idea2,3.8,0.5838149449509524
+4,bottle,4,**Interactive Story Bottle:** A bottle with a hidden story. Each twist of the bottle reveals a new chapter of the tale.,idea2,3.8,0.5838149449509524
+6,bottle,0,"**Bottle Rocket:** A bottle filled with compressed air can be used as a makeshift rocket engine, propelling small objects across the room.",idea2,3.4,0.46782456957041774
+6,bottle,1,**Musical Bottle:** A hollow bottle can be used as a resonating chamber for creating unique musical sounds by striking it with a mallet.,idea2,3.4,0.46782456957041774
+6,bottle,2,**Stained Glass Bottle:** A clear bottle can be decorated with colorful mosaic tiles to create a unique stained glass window.,idea2,3.8,0.46782456957041774
+6,bottle,3,**Interactive Bottle:** A bottle can be embedded with sensors and LEDs to create a interactive light display that changes color and pattern based on the surrounding environment.,idea2,3.6,0.46782456957041774
+6,bottle,4,**Bottle Aquarium:** A transparent bottle can be filled with water and decorated with small aquatic plants and animals to create a miniature underwater world.,idea2,3.8,0.46782456957041774
+7,bottle,0,"**Stained Glass Bottle:** Transform a bottle into a mosaic masterpiece by attaching colorful glass shards to its surface. This creates a vibrant, shimmering effect when illuminated.",idea2,3.4,0.49517403234858814
+7,bottle,1,"**Musical Bottle:** Create a musical instrument by attaching magnets to the bottle and using magnets to pluck on the sides, creating unique melodies.",idea2,3.8,0.49517403234858814
+7,bottle,2,**Planter Bottle:** Turn a bottle into a planter by carving out a hole in the center and filling it with soil. You can even add plants to create a vertical garden.,idea2,3.0,0.49517403234858814
+7,bottle,3,**Bird Feeder:** Craft a bird feeder from a bottle by punching holes in the bottle and filling it with seed. Hang it from a tree to attract feathered friends.,idea2,3.2,0.49517403234858814
+7,bottle,4,**Soap Dispenser:** Sculpt a soap dispenser from a bottle by carving out a hole in the lid and attaching a bar of soap.,idea2,2.8,0.49517403234858814
+7,bottle,5,**Water Fountain:** Create a water fountain by attaching a small pump to a bottle and adding water. Place the bottle on a stand to create a flowing stream of water.,idea2,3.2,0.49517403234858814
+7,bottle,6,**Planetary Globe:** Sculpt a miniature planetary globe from a bottle by carving out different planets and attaching them to the bottle.,idea2,4.8,0.49517403234858814
+8,bottle,0,**Musical Instrument:** Turn a bottle into a musical instrument by attaching strings or wires to the neck and using it as a percussion instrument.,idea2,3.4,0.44254887649601965
+8,bottle,1,**Planter:** Create a planter by carving a hole in a bottle and filling it with soil and plants.,idea2,2.8,0.44254887649601965
+8,bottle,2,**Bird Feeder:** Design a bird feeder by attaching a mesh or netting to the mouth of a bottle and filling it with seeds or water.,idea2,3.2,0.44254887649601965
+8,bottle,3,**Soap Dispenser:** Craft a soap dispenser by carving a hole in a bottle and inserting a bar of soap.,idea2,2.2,0.44254887649601965
+8,bottle,4,**Water Fountain:** Create a water fountain by attaching a pump to a bottle and spraying water upwards.,idea2,3.4,0.44254887649601965
+9,bottle,0,"**Mini Greenhouse:** Convert a glass bottle into a miniature greenhouse for seedlings or succulents. Decorate with pebbles, moss, and fairy lights for a whimsical touch.",idea2,3.4,0.4697920475781304
+9,bottle,1,**Musical Instrument:** Craft a unique musical instrument using the bottle and other recycled materials. Experiment with different sounds and rhythms.,idea2,3.4,0.4697920475781304
+9,bottle,2,**Bird Feeder:** Transform a bottle into a hanging bird feeder. Attach mesh netting or holes to allow birds to access food.,idea2,3.2,0.4697920475781304
+9,bottle,3,"**Planter:** Create a vertical planter by attaching small pots to a bottle. Fill with herbs, flowers, or succulents.",idea2,3.0,0.4697920475781304
+9,bottle,4,**Light Fixture:** Turn a bottle into a lampshade by painting it and attaching a light bulb. Use vintage bottles for a nostalgic feel.,idea2,3.2,0.4697920475781304
+9,bottle,5,**Bottle Rocket:** Design a bottle rocket that can be launched using a spring or other mechanism.,idea2,3.6,0.4697920475781304
+9,bottle,6,**Bottle Bridge:** Construct a bridge made of bottles and other recycled materials.,idea2,3.8,0.4697920475781304
